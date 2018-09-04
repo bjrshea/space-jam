@@ -1,0 +1,49 @@
+/* * {
+    border: solid 2px hotpink;
+} */
+
+/* body {
+  position: absolute;
+  width: 75%;
+  height: 75%;
+} */
+.main {
+  display: block;
+  margin-top: 300px;
+  margin-left: 35%;
+  position: relative;
+  width: 600px;
+  padding: 20px;
+  justify-content: center;
+}
+#logo {
+  margin-left: 100px;
+}
+#one, #two, #three, #seven, #eight, #nine {
+  float: left;
+  margin-left: 10px;
+}
+#four, #five, #six, #ten, #eleven {
+  float: right;
+}
+#three, #six {
+  margin-top: 55px;
+}
+#two, #five {
+  margin-top: 100px;
+}
+#one, #four {
+  margin-top: 150px;
+}
+#nine {
+  margin-top: 50px;
+}
+#eight, #eleven {
+  margin-top: 0px;
+}
+#eleven {
+  margin-left: -50px;
+}
+#seven, #ten {
+  margin-top: -40px;
+}
